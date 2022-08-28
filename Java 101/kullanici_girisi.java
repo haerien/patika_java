@@ -18,7 +18,7 @@ public class kullanici_girisi {
         }
 
         cevap = sc.nextLine();
-        if (cevap.equals("yes")){
+        if (cevap.equals("evet")){
             System.out.println("Lutfen yeni sifrenizi giriniz: ");
             yeniSifre = sc.nextLine();
 
