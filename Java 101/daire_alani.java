@@ -11,6 +11,6 @@ public class daire_alani {
         area = (pi * (r*r) * a) / 360;
 
         System.out.println("Dairenin alani  = " + area);
-        sc.close()
+        sc.close();
     }
 }
